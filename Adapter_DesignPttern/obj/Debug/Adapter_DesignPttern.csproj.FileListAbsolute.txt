@@ -1,0 +1,7 @@
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\bin\Debug\Adapter_DesignPttern.exe.config
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\bin\Debug\Adapter_DesignPttern.exe
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\bin\Debug\Adapter_DesignPttern.pdb
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\obj\Debug\Adapter_DesignPttern.csproj.AssemblyReference.cache
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\obj\Debug\Adapter_DesignPttern.csproj.CoreCompileInputs.cache
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\obj\Debug\Adapter_DesignPttern.exe
+C:\MyProjects\Adapter_DesignPttern\Adapter_DesignPttern\obj\Debug\Adapter_DesignPttern.pdb
